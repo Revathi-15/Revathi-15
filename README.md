@@ -38,13 +38,6 @@
 
 ---
 
-### 🚀 Projects Showcase:
-- **📰 [News Blog Website](https://github.com/Revathi-15/Blog-website):** React + Flask-based news platform with voice assistant, weather, themes, and secure session management.
-- **🩸 [Blood Donation App](https://github.com/Revathi-15/Blood-Donation-App):** Android app connecting donors and recipients with real-time features and Firebase auth.
-- **🧠 [Real-Time Quiz Game](https://github.com/Revathi-15/OS-project-):** Multiplayer quiz system built using C, sockets, and multithreading.
-
----
-
 ### 🎯 LeetCode Stats:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/revathi_15?theme=light&font=Source+Code+Pro&ext=contest)
 
