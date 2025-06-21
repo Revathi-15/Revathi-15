@@ -1,8 +1,8 @@
-<h2>👩‍💻 About Me:</h2>
-<p align="center">
-<h2>Hi 👋, I'm Revathi Sangam</h2>
-<h4>A Passionate Software Engineer & AI Enthusiast from India</h4>
-</p>
+<h1>👩‍💻 About Me:</h1>
+<h2 align="center">
+<h1>Hi 👋, I'm Revathi Sangam
+A Passionate Software Engineer & AI Enthusiast from India</h1>
+</h2>
   
 ### 🌐 Socials:
 ---
