@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hey Hi👋, I'm Prasanthi Sandaka</h1>
+<h1 align="center">Hey Hi👋, I'm Revathi Sangam</h1>
 <h3 align="center">A Passionate Software Engineer & AI Enthusiast from India</h3>
 
 ## 🌐 Socials:
