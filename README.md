@@ -1,5 +1,5 @@
 # About Me:
-<h3 align="center">Hey Hi👋, I'm Revathi Sangam</h3>
+<h3 align="center">Hey Hi👋, I'm REVATHI SANGAM</h3>
 <h4 align="center">A Passionate Software Engineer & AI Enthusiast from India</h4>
 
 
