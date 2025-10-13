@@ -1,6 +1,6 @@
 # 💫 About Me:
-## Hey Hi👋, I'm Revathi Sangam
-### A Passionate Software Engineer & AI Enthusiast from India
+### Hey Hi👋, I'm Revathi Sangam
+#### A Passionate Software Engineer & AI Enthusiast from India
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revathi-s-066727261/)
