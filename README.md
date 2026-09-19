@@ -77,10 +77,10 @@
   <img src="https://img.shields.io/badge/Flipkart-GRiD_6.0_Semi--Finalist-1F6FEB?style=for-the-badge"/>
 </p>
 
-- 🧩 Solved **500+ problems** across LeetCode, GeeksforGeeks, and Code360.
-- ⭐ Achieved a **1600+ rating**, placing in the **Top 22%**.
+- 🧩 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/revathi_15/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/revathisaluxz?tab=activity), and [Code360](https://www.naukri.com/code360/profile/RevathiS).
+- ⭐ Achieved a **1600+ rating** in LeetCode, placing in the **Top 22%**.
 - 🏆 **Flipkart GRiD 6.0 Semi-Finalist** among 500+ national teams.
-- 🎓 **Publicis Sapient Campus Ambassador** at NIT Durgapur.
+- 🎓 **Publicis Sapient Campus Ambassador** at [NIT Durgapur](https://nitdgp.ac.in/).
 
 ## 🎓 Education
 
@@ -103,30 +103,12 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Revathi-15&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Revathi-15&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathi-15&layout=compact&hide_border=true&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathi-15&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revathi-15&theme=tokyonight"
-    width="95%"
-  />
-</p>
-
-
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Revathi-15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7"
-    width="95%"
   />
 </p>
 
@@ -134,13 +116,13 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/revathi-s/">
+  <a href="[https://www.linkedin.com/in/revathi-s/](https://www.linkedin.com/in/revathi-s-066727261/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:revathisangam2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/Revathi-15">
+  <a href="[https://github.com/Revathi-15](https://github.com/Revathi-15)">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
