@@ -66,8 +66,12 @@
 - **Publicis Sapient** — Associate Software Development Engineer Intern  
   `May 2025 – July 2025 • Bangalore, Karnataka, India`
 
+## 🏆 Achievements
 
-
+- 🧩 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/revathi_15/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/revathisaluxz?tab=activity), and [Code360](https://www.naukri.com/code360/profile/RevathiS).
+- ⭐ Achieved a **1600+ rating** in LeetCode, placing in the **Top 22%**.
+- 🏆 **Flipkart GRiD 6.0 Semi-Finalist** among 500+ national teams.
+- 🎓 **Publicis Sapient Campus Ambassador** at [NIT Durgapur](https://nitdgp.ac.in/).
 
 ## 🤝 Let's Connect
 <p align="center">
