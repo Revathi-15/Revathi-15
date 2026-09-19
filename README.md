@@ -11,25 +11,8 @@
   I enjoy building backend services, full-stack applications, REST APIs, and AI-powered developer tools.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/revathi-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Revathi-15">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:revathisangam2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
 ## 💻 Tech Stack
-
-<p align="center">
-
-<!-- Languages -->
+<p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -67,49 +50,27 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/500%2B-DSA_Problems-181717?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/1600%2B-Rating-FFB000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Top_22%25-LeetCode%20%7C%20GFG%20%7C%20Code360-2EA44F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Flipkart-GRiD_6.0_Semi--Finalist-1F6FEB?style=for-the-badge"/>
-</p>
-
-- 🧩 Solved **500+ problems** across [LeetCode](https://leetcode.com/u/revathi_15/), [GeeksforGeeks](https://www.geeksforgeeks.org/profile/revathisaluxz?tab=activity), and [Code360](https://www.naukri.com/code360/profile/RevathiS).
-- ⭐ Achieved a **1600+ rating** in LeetCode, placing in the **Top 22%**.
-- 🏆 **Flipkart GRiD 6.0 Semi-Finalist** among 500+ national teams.
-- 🎓 **Publicis Sapient Campus Ambassador** at [NIT Durgapur](https://nitdgp.ac.in/).
-
 ## 🎓 Education
 
 **National Institute of Technology(NIT), Durgapur**
 
-**B.Tech — Computer Science & Engineering**  
-**CGPA: 8.91/10 | 2022 – 2026**
+**Bachelor of Technology — Computer Science & Engineering**  
+**CGPA: 8.91/10 | November 2022 – June 2026**
 
 
 ## 💼 Experience
 
-**Amazon** — Software Development Engineer Intern  
-`January 2026 – June 2026 • Bangalore`
+- **Amazon** — Software Development Engineer Intern  
+  `January 2026 – June 2026 • Bangalore, Karnataka, India`
 
-**Publicis Sapient** — Associate Software Development Engineer Intern  
-`May 2025 – July 2025 • Bangalore`
+- **Publicis Sapient** — Associate Software Development Engineer Intern  
+  `May 2025 – July 2025 • Bangalore, Karnataka, India`
 
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Revathi-15&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathi-15&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Revathi-15&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 
