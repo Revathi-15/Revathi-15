@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+
 
 ## 💻 Tech Stack
 
@@ -39,27 +39,15 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<br/>
-
-<!-- Frontend & Backend -->
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dash-191970?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br/>
-
-<!-- APIs & Authentication -->
 <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-<br/>
-
-<!-- AI / LLM -->
 <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG-6C3483?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MCP-Model_Context_Protocol-6B7280?style=for-the-badge"/>
@@ -67,32 +55,18 @@
 <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<br/>
-
-<!-- Databases -->
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<br/>
-
-<!-- Cloud & DevOps -->
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<br/>
-
-<!-- Tools -->
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-
 </p>
 
----
 
 ## 🏆 Achievements
 
@@ -108,16 +82,13 @@
 - 🏆 **Flipkart GRiD 6.0 Semi-Finalist** among 500+ national teams.
 - 🎓 **Publicis Sapient Campus Ambassador** at NIT Durgapur.
 
----
-
 ## 🎓 Education
 
-**National Institute of Technology, Durgapur**
+**National Institute of Technology(NIT), Durgapur**
 
 **B.Tech — Computer Science & Engineering**  
 **CGPA: 8.91/10 | 2022 – 2026**
 
----
 
 ## 💼 Experience
 
@@ -127,7 +98,6 @@
 **Publicis Sapient** — Associate Software Development Engineer Intern  
 `May 2025 – July 2025 • Bangalore`
 
----
 
 ## 📊 GitHub Stats
 
@@ -149,7 +119,7 @@
   />
 </p>
 
----
+
 
 ## 🏆 GitHub Trophies
 
@@ -160,7 +130,6 @@
   />
 </p>
 
----
 
 ## 🤝 Let's Connect
 
