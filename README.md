@@ -1,4 +1,4 @@
-<p center> # 👋 Hey, I'm Revathi Sangam </p>
+ # <p align="center">👋 Hey, I'm Revathi Sangam </p>
 
 <p align="center">
   <b>Software Engineer • Full-Stack Developer • AI Enthusiast</b>
